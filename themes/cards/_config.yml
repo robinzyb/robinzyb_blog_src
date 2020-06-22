@@ -77,7 +77,7 @@ style:
     link_color_hover: '#eb5757'
     title: '#50596c'
     background: '#f4f4f4'
-    card_color: '#fff'
+    card_color: '#ffffff'
     font_color: '#4c4d4e'
     codeblock: '#f8f8f8'
     categories_block: '#c2c2c2'
@@ -300,7 +300,7 @@ comments:
 analytics:
   google_site_id:
   gtags_site_id:
-  baidu_site_id: 
+  baidu_site_id: 250149331ca12db32de320592ce30464
   cnzz_site_id: 
 
   # busuanzi 计数系统
